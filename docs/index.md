@@ -6,6 +6,7 @@ title: Hidden Berkeley
 # Hidden Berkeley
 
 A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Berkeley is a great place to study and live. Let's pray for Nobel Prize 2026. Welcome!
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
